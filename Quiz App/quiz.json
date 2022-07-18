@@ -1,0 +1,122 @@
+[
+  {
+      "question": "Q1: 'OS' computer abbreviation usually means ?",
+      "a": "Order of Significance",
+      "b": "Open Software",
+      "c": "Operating Software",
+      "d": " Operating System",
+      "ans": "ans4"
+  },
+  {
+      "question": "Q2: '.MOV' extension refers usually to what kind of file ?",
+      "a": "Image file",
+      "b": "Animation/movie file",
+      "c": "Audio file ",
+      "d": " None of the above",
+      "ans": "ans2"
+  },
+  {
+      "question": "Q3: For which of the following disciplines is Nobel Prize awarded?",
+      "a": "Physics and Chemistry ",
+      "b": "Physiology or Medicine ",
+      "c": "Literature, Peace and Economics",
+      "d": "All of the above",
+      "ans": "ans4"
+  },
+  {
+      "question": "Q4: Filaria is caused by______",
+      "a": "Bacteria",
+      "b": "Mosquito",
+      "c": "Protozoa",
+      "d": "Virus ",
+      "ans": "ans2"
+  },
+  {
+      "question": "Q5: The programming languages are ___.",
+      "a": " C++",
+      "b": " Java",
+      "c": " Python",
+      "d": " All of the above",
+      "ans": "ans4"
+  },
+  {
+      "question": "Q6:Which of the following is the original creator of the C++ language?",
+      "a": " Dennis Ritchie",
+      "b": " Ken Thompson",
+      "c": " Bjarne Stroustrup",
+      "d": " Brian Kernighan",
+      "ans": "ans3"
+  },
+  {
+      "question": "Q7:Which city is known as 'Electronic City of India'?",
+      "a": " Mumbai",
+      "b": " Hyderabad",
+      "c": " Guragon",
+      "d": " Bangalore",
+      "ans": "ans4"
+  },
+  {
+      "question": "Q8:Golden Temple is situated in",
+      "a": " New Delhi",
+      "b": " Agra ",
+      "c": " Amritsar",
+      "d": "Mumbai",
+      "ans": "ans3"
+  },
+  {
+      "question": "Q9:The Indian to beat the computers in mathematical wizardry is",
+      "a": " Ramanujam",
+      "b": " Rina Panigrahi ",
+      "c": " Raja Ramanna",
+      "d": "Shakunthala Devi ",
+      "ans": "ans4"
+  },
+  {
+      "question": "Q10: The python programming language was designed by________.",
+      "a": " Guido van Rossum",
+      "b": " James Gosling",
+      "c": " Dennis Ritchie ",
+      "d": " None of the above",
+      "ans": "ans1"
+  },
+  {
+      "question": "Q11:Which of the following comment syntax is correct to create a single-line comment in the C++ program?",
+      "a": " //Comment",
+      "b": " /Comment/",
+      "c": " Comment// ",
+      "d": " None of the above",
+      "ans": "ans1"
+  },
+  {
+      "question": "Q12: Why we use programming languages.",
+      "a": " For developing machines",
+      "b": " For enable communication b/w humans and computers.",
+      "c": " Both A and B ",
+      "d": " None of the above",
+      "ans": "ans2"
+  },
+  {
+      "question": "Q13:Olympic Champion Neeraj Chopra broke his own national record in which tournament?",
+      "a": " Diamond League",
+      "b": " World Indoor Championship",
+      "c": "  World Athletics Championships",
+      "d": " Asian Games",
+      "ans": "ans1"
+  },
+  {
+      "question": "Q14:Who has become the third fastest Indian female runner in 200 meters race?",
+      "a": " Shivani Prithvi",
+      "b": "Dhanalakshmi",
+      "c": "Aishwarya Pissay",
+      "d": "Anushriya Gulati ",
+      "ans": "ans2"
+  },
+  {
+      "question": "Q15: How many states in India ?",
+      "a": " 28",
+      "b": " 29",
+      "c": " 30",
+      "d": " None of the above",
+      "ans": "ans1"
+  }
+]
